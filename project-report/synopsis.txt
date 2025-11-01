@@ -1,0 +1,17 @@
+Adaptive Learning Management System (ALMS)
+-------------------------------------------
+Objective:
+To create an LMS that adapts course content to individual student progress and preferences.
+
+Modules:
+1. User Management
+2. Course Management
+3. Adaptive Module Delivery
+4. Feedback & Assessment
+5. Admin Control
+
+Technologies Used:
+Frontend: HTML, CSS, JavaScript
+Backend: Django (Python)
+Database: SQLite / MySQL
+Tools: VS Code, GitHub

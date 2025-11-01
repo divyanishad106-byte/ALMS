@@ -1,0 +1,7 @@
+Screenshots / Output Description
+--------------------------------
+1. Home Page – system welcome screen.
+2. Login Page – user authentication form.
+3. Dashboard – enrolled courses and progress.
+4. Courses Page – available course list.
+5. Feedback Page – feedback submission form.
