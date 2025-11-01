@@ -1,0 +1,8 @@
+Level 0 DFD:
+User → Login → System → Dashboard → Course/Module/Feedback → Database
+
+Level 1 DFD:
+1. User enters login info → validated by system
+2. User selects course → system retrieves modules from database
+3. User completes assessment → progress stored
+4. User gives feedback → saved in Feedback table
